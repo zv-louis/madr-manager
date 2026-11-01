@@ -1,0 +1,13 @@
+{
+  "name": "madr-manager",
+  "description": "Interactive MADR (Markdown Architectural Decision Records) manager. Helps create, list, and manage ADR files following the Structured MADR v4.0.0 format.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kanok-one",
+    "email": "zervoid77@gmail.com"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/managing-madr"
+  ]
+}
